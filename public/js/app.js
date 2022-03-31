@@ -1,4 +1,3 @@
-console.log('fronted js')
 
 const userAuth = 'new-node-prueba'
-const password = 'WIk6XAV3B32Uzmnr'
+const password = '8jx1tU9YNP7hMv5Z'
